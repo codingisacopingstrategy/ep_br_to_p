@@ -1,0 +1,10 @@
+{
+  "parts": [
+    {
+      "name": "main",
+      "hooks": {
+        "getFullHTMLForExport" : "ep_br_to_p/index"
+      }
+    }
+  ]
+}
