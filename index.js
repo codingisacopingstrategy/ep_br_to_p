@@ -10,6 +10,7 @@
  * For a more general purpose implementation we would probably
  * need to use jsdom and the DOM api.
  * */
+var sys = require("sys");
 
 exports.getFullHTMLForExport = function(hook, context) {
     /*var document = jsdom.jsdom('<p>' + context.html + '</p>');
