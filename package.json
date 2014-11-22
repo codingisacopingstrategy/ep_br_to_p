@@ -1,6 +1,6 @@
 {
   "name": "ep_br_to_p",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Convert Etherpad’s output to use <p> tags instead of only <br/>",
   "author": {
     "name": "codingisacopingstrategy & furter",
@@ -13,3 +13,4 @@
     "node": ">= 0.6.3"
   }
 }
+
